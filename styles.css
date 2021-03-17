@@ -1,0 +1,36 @@
+body
+{
+    color:red;
+    background-color: lightskyblue;
+}
+.black-border
+{
+    border: 5px solid black;
+}
+.bolder
+{
+    font-size: larger;
+    font-weight: bolder;
+}
+#green-background
+{
+    background-color: green;
+}
+#aboutfont
+{
+  font-size: xx-large;  
+  color: black;
+}
+.copy
+{
+    font-size: xx-small;
+    color: chartreuse;
+}
+.my_font
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: lightyellow;
+    color:maroon;
+    font-style: italic;
+    border: 3px groove grey;
+}
